@@ -82,6 +82,7 @@ Issues welcome for bugs, enhancements, or docs updates.
 
 MIT 
 
+## Permissions Assigned
 <!-- PERMISSIONS-TABLE-START -->
 | API | Permission | Type | GUID | Description |
 | --- | ---------- | ---- | ---- | ----------- |
