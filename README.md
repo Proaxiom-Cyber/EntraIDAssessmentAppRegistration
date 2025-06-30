@@ -36,10 +36,11 @@ Install-Module Microsoft.Graph -Scope CurrentUser
 
 After the script finishes, grant tenant-wide admin consent for the newly created application:
 
-1. Open the Azure portal and navigate to **Entra ID / Azure Active Directory → App registrations**.
-2. Locate **"Proaxiom Cyber – Audit Application".**
-3. Select **API permissions** in the left-hand menu.
-4. Click **Grant admin consent for <tenant>** and confirm the prompt.
+1. Open the Azure portal (direct link: [App registrations](https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM)).
+2. Navigate to **Entra ID / Azure Active Directory → App registrations** if not already there.
+3. Locate **"Proaxiom Cyber – Audit Application".**
+4. Select **API permissions** in the left-hand menu.
+5. Click **Grant admin consent for <tenant>** and confirm the prompt.
 
 This authorises the application to use the Microsoft Graph roles and scopes that were added automatically by the script.
 
