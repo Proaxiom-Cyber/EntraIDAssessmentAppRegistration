@@ -10,6 +10,13 @@ Running the PowerShell script (`Add-ProaxiomCyberAppRegistration.ps1`) will:
 
 ---
 
+## Prerequisites
+
+• **PowerShell 7.x** (cross-platform, recommended) or **Windows PowerShell 5.1** with .NET Framework 4.7.2 or later.  
+• Ability to install the Microsoft.Graph PowerShell SDK (requires an internet connection and installation rights).
+
+---
+
 ## Quick Start
 
 ```powershell
