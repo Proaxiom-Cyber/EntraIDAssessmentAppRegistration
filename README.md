@@ -127,7 +127,6 @@ MIT
 | Microsoft Graph | MutualTlsOauthConfiguration.Read.All | Role | 6daaff82-2880-496d-9d80-57e8e31195e2 | Allows the app to read configuration used for OAuth 2.0 mutual-TLS client authentication,  This includes reading trusted certificate authorities. |
 | Microsoft Graph | PartnerSecurity.Read.All | Role | 21ffa320-2e7f-47d3-a466-7ff04d2dd68d | Allows the app to read security alerts of customer with CSP relationship, |
 | Microsoft Graph | PlaceDevice.Read.All | Role | 8b724a84-ceac-4fd9-897e-e31ba8f2d7a3 | Allows the app to read all workplace devices, |
-| Microsoft Graph | PlaceDeviceTelemetry.ReadWrite.All | Role | 27fc435f-44e2-4b30-bf3c-e0ce74aed618 | Allows the app to read and write telemetry for all workplace devices, |
 | Microsoft Graph | Policy.Read.All | Role | 246dd0d5-5bd0-4def-940b-0421030a5b68 | Allows the app to read all your organization's policies |
 | Microsoft Graph | Policy.Read.AuthenticationMethod | Role | 8e3bc81b-d2f3-4b7b-838c-32c88218d2f0 | Allows the app to read all authentication method policies for the tenant, |
 | Microsoft Graph | Policy.Read.ConditionalAccess | Role | 37730810-e9ba-4e46-b07e-8ca78d182097 | Allows the app to read your organization's conditional access policies, |
