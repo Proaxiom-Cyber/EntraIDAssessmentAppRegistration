@@ -88,6 +88,7 @@ MIT
 | --- | ---------- | ---- | ---- | ----------- |
 | Microsoft Graph | Application.Read.All | Role | 9a5d68dd-52b0-4cc2-bd40-abcf44ac3a30 | Allows the app to read all applications and service principals |
 | Microsoft Graph | AttackSimulation.Read.All | Role | 93283d0a-6322-4fa8-966b-8c121624760d | Allows the app to read attack simulation and training data for an organization |
+| Microsoft Graph | AuditLog.Read.All | Role | b0afded3-3588-46d8-8b3d-9842eff778da | Allows the app to read all audit log data |
 | Microsoft Graph | AuthenticationContext.Read.All | Role | 381f742f-e1f8-4309-b4ab-e3d91ae4c5c1 | Allows the app to read the authentication context information in your organization |
 | Microsoft Graph | BackupRestore-Configuration.Read.All | Role | 5fbb5982-3230-4882-93c0-2167523ce0c2 | Allows the app to read all backup configurations, and lists of Microsoft 365 service resources to be backed-up, |
 | Microsoft Graph | BackupRestore-Control.Read.All | Role | 6fe20a79-0e15-45a1-b019-834c125993a0 | Allows the app to read the status of M365 backup service (enable/disable), |
@@ -122,6 +123,7 @@ MIT
 | Microsoft Graph | IdentityUserFlow.Read.All | Role | 1b0c317f-dd31-4305-9932-259a8b6e8099 | Allows the app to read your organization's user flows, |
 | Microsoft Graph | InformationProtectionConfig.Read.All | Role | 14f49b9f-4bf2-4d24-b80e-b27ec58409bd | Allows the app to read all configurations applicable to users for protecting organizational data, |
 | Microsoft Graph | InformationProtectionPolicy.Read.All | Role | 19da66cb-0fb0-4390-b071-ebc76a349482 | Allows an app to read published sensitivity labels and label policy settings for the entire organization or a specific user, |
+| Microsoft Graph | Mail.Read | Role | 810c84a8-4a9e-49e6-bf7d-12d183f40d01 | Allows the app to read mail in all mailboxes without a signed-in user |
 | Microsoft Graph | MailboxSettings.Read | Role | 40f97065-369a-49f4-947c-6a255697ae91 | Allows the app to read user's mailbox settings  Does not include permission to send mail. |
 | Microsoft Graph | MultiTenantOrganization.Read.All | Role | 4f994bc0-31bb-44bb-b480-7a7c1be8c02e | Allows the app to read all multi-tenant organization details and tenants, |
 | Microsoft Graph | MutualTlsOauthConfiguration.Read.All | Role | 6daaff82-2880-496d-9d80-57e8e31195e2 | Allows the app to read configuration used for OAuth 2.0 mutual-TLS client authentication,  This includes reading trusted certificate authorities. |
